@@ -1,0 +1,26 @@
+name,type,twoHanded,ignoresArmor,1,2,3,4,5,6,7
+sword,melee,FALSE,FALSE,4,6,6,6,6,8,10
+axe,melee,FALSE,FALSE,2,2,6,6,8,10,12
+knife,melee,FALSE,FALSE,2,2,2,2,4,8,10
+staff,melee,FALSE,FALSE,2,4,4,4,4,6,8
+hammer,melee,FALSE,TRUE,1,2,4,6,8,10,12
+spear,melee,FALSE,FALSE,4,4,6,6,8,8,10
+longsword,melee,FALSE,FALSE,4,6,8,8,10,12,14
+mace,melee,FALSE,TRUE,2,4,4,6,6,8,10
+polearm,melee,TRUE,TRUE,2,4,4,8,12,14,18
+maul,melee,TRUE,TRUE,1,2,3,6,12,13,14
+greatsword,melee,TRUE,FALSE,2,4,8,10,12,14,18
+club,melee,FALSE,FALSE,1,1,2,3,6,8,10
+unarmed,melee,FALSE,FALSE,1,1,1,2,2,3,4
+shield,melee,FALSE,FALSE,2,2,2,4,4,6,8
+fusil,ranged,TRUE,TRUE,2,4,4,6,12,18,24
+bow,ranged,TRUE,FALSE,2,4,6,8,8,10,12
+crossbow,ranged,TRUE,FALSE,4,4,6,8,8,8,10
+pistolet,ranged,FALSE,TRUE,2,2,4,4,6,12,16
+small beast,beastly,FALSE,FALSE,2,2,3,3,4,5,6
+modest beast,beastly,FALSE,FALSE,4,6,6,8,8,10,12
+large beast ,beastly,FALSE,TRUE,4,6,8,10,12,14,16
+gigantic beast,beastly,FALSE,TRUE,4,8,12,12,16,18,24
+dragon-fire,beastly,FALSE,FALSE,6,8,12,16,18,24,36
+jolt,spell,FALSE,TRUE,2,2,4,4,5,6,9
+fire bolt,spell,FALSE,FALSE,3,3,5,7,9,12,16

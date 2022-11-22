@@ -1,0 +1,1422 @@
+[
+	{
+		"name": "a quixotic undertaking",
+		"description": "",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 1,
+		"companion": 0
+	},
+	{
+		"name": "abacus",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "arrows",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "assortment of ragged armour",
+		"description": "counts as Modest Armour",
+		"damage": "",
+		"encumbrance": 2,
+		"armour": 2,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "axe",
+		"description": "",
+		"damage": "axe",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "bale hook",
+		"description": "A bale hook counts as a Knife for Damage and grants +1 on rolls to lift heavy objects.",
+		"damage": "knife",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "bandolier of plasmic cores",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "barrister’s wig",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "black clothes of the apprentice",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "blue star map",
+		"description": "The blue star maps of Corda hold the secrets of travel between the spheres. Every juncture in space and time can be found on its many square metred face if one is sufficiently educated in its use. Test Astrology to tell the precise destination of any portal.",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "blunt metal dentures",
+		"description": "May be used to eat hard objects",
+		"damage": "knife",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "bolts",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "bottle of strong but fancy wine",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "bow",
+		"description": "",
+		"damage": "bow",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "brightly coloured clothing with lots of tassels and bells",
+		"description": "(impossible to sneak). Though frivolous looking it is in fact built with the Autarch’s divine alchemy and considered Modest Armour while weighing the same as normal clothing (takes no slots in your inventory).",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 2,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "brown overcoat and soft doffing cap of the guild",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "brushes",
+		"description": "",
+		"damage": "brushes",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "bundle of candles and matches",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "butcher’s knife",
+		"description": "",
+		"damage": "knife",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "centaur body",
+		"description": "+4 Run",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "claws",
+		"description": "",
+		"damage": "sword",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 1,
+		"companion": 0
+	},
+	{
+		"name": "club",
+		"description": "",
+		"damage": "club",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "collapsible tent",
+		"description": "large enough for your stall.",
+		"damage": "",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "crossbow",
+		"description": "",
+		"damage": "crossbow",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "crown",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "curled shoes",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "curved sword",
+		"description": "",
+		"damage": "sword",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "detachable autonomous hands",
+		"description": "",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 1,
+		"companion": 0
+	},
+	{
+		"name": "distinguished sledgehammer",
+		"description": "",
+		"damage": "maul",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "dream journal",
+		"description": "almost full",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "dusty robes",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "embroidered napkin",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "empty firkin",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "empty gremlin jar",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "epopt staff",
+		"description": "An Epopt’s Staff is a tool, an advert, and, in a pinch, a Weapon. In its head is set a cloudy ruby, like a useless magnifying glass, which grants the user +1 Second Sight while peering through it.",
+		"damage": "staff",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "exographical surveyors box",
+		"description": "",
+		"damage": "",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "exquisite pistolet",
+		"description": "",
+		"damage": "pistolet",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "festooned with keys",
+		"description": "counts as Modest Armour",
+		"damage": "",
+		"encumbrance": 2,
+		"armour": 2,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "flashy robes",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "flat cap",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "forked metal dentures",
+		"description": "On a Mighty Blow you may cleanly strip all the flesh from one small appendage",
+		"damage": "mace",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "fusil",
+		"description": "A fusil is a long Weapon that looks like a rifle and can be used in melee as a Club. A Fusil holds 6 charges before the plasmic core needs replacing.",
+		"damage": "fusil",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "gargantuan shield",
+		"description": "",
+		"damage": "shield",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "garrote",
+		"description": "",
+		"damage": "garrote",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "ghost",
+		"description": "with whom you have developed a codependent relationship",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "grappling hook",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "greatsword",
+		"description": "",
+		"damage": "greatsword",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "half full firking of rhino beer",
+		"description": "20 Provisions worth",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "hammer",
+		"description": "",
+		"damage": "hammer",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "heavy armour",
+		"description": "",
+		"damage": "",
+		"encumbrance": 3,
+		"armour": 3,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "hermetically sealed rubber suit",
+		"description": "counts as Heavy Armour",
+		"damage": "",
+		"encumbrance": 3,
+		"armour": 3,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "hooves",
+		"description": "",
+		"damage": "club",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 1,
+		"companion": 0
+	},
+	{
+		"name": "horn",
+		"description": "",
+		"damage": "knife",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 1,
+		"companion": 0
+	},
+	{
+		"name": "horse",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 1
+	},
+	{
+		"name": "huge maul",
+		"description": "",
+		"damage": "maul",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "inbuilt particle detector",
+		"description": "+4 Second Sight",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 1,
+		"companion": 0
+	},
+	{
+		"name": "incidental sacred jewellry",
+		"description": "worth 10d6 Silver pence if traded",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "jar with a pissed-off gremlin",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "journal",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "kg of premium meat cuts",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "knife",
+		"description": "",
+		"damage": "knife",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "knuckle die",
+		"description": "Knuckle dice are made from the nimble, petal shaped knuckle bones of goblins and make excellent two sided dice.",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "lance",
+		"description": "",
+		"damage": "spear",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "large astrolabe",
+		"description": "Astrological Equipment requires twenty minutes to set up and use but doesn’t need to be outside. Consists of a ruby specular, charms against reciprocal observation, and complicated charts of the spheres. Grants +1 to Astrology.",
+		"damage": "mace",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "large sack",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "large, worn wooden ladle",
+		"description": "",
+		"damage": "mace",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "length of rope",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "lock picking tools",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "longsword",
+		"description": "",
+		"damage": "longsword",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "lots of scars",
+		"description": "",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 1,
+		"companion": 0
+	},
+	{
+		"name": "lots of scrolls",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "mace",
+		"description": "",
+		"damage": "mace",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "manual on yongardy law",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "masonry hammer",
+		"description": "",
+		"damage": "hammer",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "maul",
+		"description": "",
+		"damage": "maul",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "monkey club",
+		"description": "",
+		"damage": "club",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "nice weapon.",
+		"description": "",
+		"damage": "nice weapon.",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "old hunting bow",
+		"description": "",
+		"damage": "bow",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "pillbox hat",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "pistolet",
+		"description": "A pistolet is a hand held energy Weapon. Holds enough energy for 8 shots.",
+		"damage": "pistolet",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "plasmic cores",
+		"description": "Plasmic cores are crystalised starlight cast in metal. Or astral vapours captured in glass. Or maybe hard-ghosts? Whatever it is, it’s pretty and used as a fuel source for exotic Weapons and reckless magicians. A plasmic core can be cracked open and huffed by a wizard in place of spending Stamina on a Spell. However, if an Oops! Table roll is called for the wizard has overdosed and drops dead, foaming at the mouth.",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "pocket barometer",
+		"description": "The pocket barometer is part of a fashionable affectation for the metropolitan Troikan. Though the city has no discernable weather it is considered polite to check it intermittently and comment on the present clemency and hope for it to continue into the future. Examining its quartz face will inform you of future weather with 5 in 6 accuracy.",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "pocket full of monkey treats",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "pocket gods",
+		"description": "Pocket gods are little cloth puppets made in the image of your numerous gods. If you whisper a secret to one and throw it away you regain 1 Luck.",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "pointed wizard hat",
+		"description": "Received at graduation.",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "polearm",
+		"description": "",
+		"damage": "polearm",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "pouch of salt",
+		"description": "Salt is the poor man’s Silver. Where Silver kills the demonic and the dead Salt merely harms or bars.",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "puffy shirt",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "random spell",
+		"description": "",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 1,
+		"companion": 0
+	},
+	{
+		"name": "rapier",
+		"description": "",
+		"damage": "sword",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "reading glasses",
+		"description": "in a sturdy case (you cannot read without them).",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "red priest great axe",
+		"description": "",
+		"damage": "greatsword",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "red robes",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "ritual scars",
+		"description": "",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 1,
+		"companion": 0
+	},
+	{
+		"name": "roll of artist’s supplies",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "roll of lock picks",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "rolls of parchment",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "ruby lorgnette",
+		"description": "Ruby lorgnettes are collapsable spectacles made with ruby lenses that require a free hand to use. While wearing them your sight is impaired but you can see sorcerous activity clearly (+2 Second Sight).",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "sackcloth robes",
+		"description": "caked in stinking mud and undergrowth. +1 to Sneak rolls in marshy terrain while wearing them, -1 everywhere else ‘cos it stinks!",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "sharp metal dentures",
+		"description": "",
+		"damage": "sword",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "shield",
+		"description": "",
+		"damage": "shield",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "silver arrows",
+		"description": "Silver is the star metal, the most untouched material fallen from the hump-backed sky. Weapons made from it may inflict Damage to creatures normally immune to material harm.",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "silver sword",
+		"description": "Silver is the star metal, the most untouched material fallen from the hump-backed sky. Weapons made from it may inflict Damage to creatures normally immune to material harm.",
+		"damage": "sword",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "sjambok",
+		"description": "",
+		"damage": "club",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "small but vicious dog",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 1
+	},
+	{
+		"name": "small functional door",
+		"description": "worn on your forehead through which you channel your magic.",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "small gridiron",
+		"description": "",
+		"damage": "small gridiron",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "small monkeys",
+		"description": "do not heed commands but are too scared and hungry to travel far from you.",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 1
+	},
+	{
+		"name": "small sword",
+		"description": "",
+		"damage": "sword",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "soldering iron",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "spear",
+		"description": "",
+		"damage": "spear",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "spring-loaded measuring tape",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "staff",
+		"description": "",
+		"damage": "staff",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "staff bedecked with charms and bells",
+		"description": "May reroll one die on the Oops! Table if using this staff, however, may never sneak up on anyone because of the ringing and clattering it makes.",
+		"damage": "staff",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "sword",
+		"description": "",
+		"damage": "sword",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "sword cane",
+		"description": "",
+		"damage": "sword",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "tea set",
+		"description": "A tea set grants +1 to Etiquette when you have the time to sit down and make tea for those you are trying to impress.",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "thaumaturgic fez",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "the blessing of telak.",
+		"description": "",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 1,
+		"companion": 0
+	},
+	{
+		"name": "the skull of your master",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "thick skin",
+		"description": "Rhino Men always count as being Modestly Armoured",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 2,
+		"wearing": 0,
+		"intrinsic": 1,
+		"companion": 0
+	},
+	{
+		"name": "tiny, useless helmet",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "tired horse",
+		"description": "",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 1
+	},
+	{
+		"name": "too-large sword",
+		"description": "provides +1 to Longsword Fighting and Damage while using it. Only you may benefit from this bonus; it’s not magic, just sentimental.",
+		"damage": "longsword",
+		"encumbrance": 2,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "tradicional faceless metal helmet",
+		"description": "Modest Armour",
+		"damage": "",
+		"encumbrance": 2,
+		"armour": 2,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "velare",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "vial of demon blood",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "vials of pigments and powders",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "vials of poison",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "voluminous robes",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "waistcoat",
+		"description": "",
+		"damage": "",
+		"encumbrance": 0,
+		"armour": 0,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "wand",
+		"description": "sed to help focus new apprentices, now kept for sentimental reasons.",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "weapon of your choice",
+		"description": "",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "wings",
+		"description": "able to fly as fast as a running man over clear ground",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 1,
+		"companion": 0
+	},
+	{
+		"name": "witch-hair rope",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "wizard biscuits",
+		"description": "each counts as a Provision",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "wooden yoke",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "woodman’s axe",
+		"description": "",
+		"damage": "axe",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "writing equipment",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "writing materials",
+		"description": "",
+		"damage": "",
+		"encumbrance": 1,
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "yellow epopt outfit",
+		"description": "padded for protection against unhappy clients (counts as Modest Armour)",
+		"damage": "",
+		"encumbrance": 2,
+		"armour": 2,
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 0
+	},
+	{
+		"name": "zombie servant",
+		"description": "",
+		"damage": "",
+		"encumbrance": "",
+		"armour": "",
+		"wearing": 0,
+		"intrinsic": 0,
+		"companion": 1
+	}
+]

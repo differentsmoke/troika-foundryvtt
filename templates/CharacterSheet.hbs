@@ -1,0 +1,13 @@
+<form >
+    {{#unless actor.derived.rolled}}
+        <button class="character-sheet_roll-stats">Roll Stats.</button>
+    {{/unless}}
+    {{#unless actor.derived.hasBackground}}
+        <button class="character-sheet_choose-background">Choose Background.</button>
+    {{/unless}}
+    <div>
+        <div><b>Skill:</b><code>{{actor.system.skill}}</code>
+        <div><b>Stamina:</b><code>{{actor.system.stamina}}</code></div>
+        <div><b>Luck:</b><code>{{actor.system.luck}}</code></div>
+    </div>
+</form>

@@ -1,0 +1,68 @@
+{
+  "Actor": {
+    "types": ["character", "enemy"],
+    "templates": {},
+    "character": {
+      "armour": ["Unarmoured", 0],
+      "status": {
+        "advanced": false,
+        "advancementRolls": 0,
+        "background": ""
+      },
+      "background": 0,
+      "skill": 0,
+      "stamina": 0,
+      "luck": 0,
+      "silver": 0
+    },
+    "enemy": {
+      "description": "",
+      "skill": 0,
+      "stamina": 0,
+      "initiative": 2,
+      "mien": [],
+      "armour": 0,
+      "special": "",
+      "damage": "",
+      "specialDamage": ""
+    }
+  },
+  "Item": {
+    "types": ["background", "item", "advancedSkill", "spell"],
+    "templates": {
+      "skill": {
+        "description": "",
+        "level": 1,
+        "used": false
+      }
+    },
+    "item": {
+      "description": "",
+      "encumbrance": 1,
+      "isWeapon": false,
+      "damage": "",
+      "isArmour": false,
+      "armour": 0
+    },
+    "advancedSkill": {
+      "templates": ["skill"]
+    },
+    "spell": {
+      "templates": ["skill"],
+      "damage": "",
+      "cost": 1
+    },
+    "background": {
+      "description": "",
+      "possessions": [],
+      "advancedSkills": [],
+      "special": []
+    },
+    "damageTable": {
+      "type": "melee",
+      "twoHanded": false,
+      "ignoresArmor": false,
+      "damage": [1, 1, 1, 2, 2, 3, 4]
+    }
+  }
+}

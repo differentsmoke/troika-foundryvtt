@@ -1,0 +1,33 @@
+{
+  "id": "troika",
+  "title": "Troika!",
+  "description": "System for Troika!",
+  "authors": [
+    {
+      "name": "Pablo Barría Urenda",
+      "flags": {}
+    }
+  ],
+  "url": "x",
+  "compatibility": {
+    "minimum": "10.288",
+    "verified": "10.288"
+  },
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": ["troika.mjs"],
+  "styles": ["styles/reset.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json",
+      "flags": {}
+    }
+  ],
+  "packs": [],
+  "socket": true,
+  "manifest": "",
+  "download": "",
+  "gridDistance": 1
+}
